@@ -1,4 +1,4 @@
-# coding: utf-8
+# coding=utf-8
 # 输入时间区间和日志级别
 
 import re
